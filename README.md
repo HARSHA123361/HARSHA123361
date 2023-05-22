@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <div id="badges">
-        <a href="https://www.linkedin.com/in/bala-siva-sai-megi-reddy-padala/">
+        <a href="https://www.linkedin.com/in/sai-harsha-378ba21ba/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
         <a href="https://twitter.com/megi_reddy21">
             <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
         </a>
     </div>  
-    <img src="https://komarev.com/ghpvc/?username=PadalaBalaSivaSaiMegiReddy&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=Sai Harsha&style=flat-square&color=blue" alt=""/>
     <h1>
         Hey there!
         <br>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m a 3rd year student in India and contributing to frontend and backend for building web applications.
-- :zap: In my free time, I solve problems on [HackerRank](https://www.hackerrank.com/megireddy21?hr_r=1), [LeetCode](https://leetcode.com/bala_siva_sai_megi_reddy/) etc.
+- :zap: In my free time, I solve problems on [GreekForGreeks](https://auth.geeksforgeeks.org/user/e20cs5xag/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user), [LeetCode](https://leetcode.com/Harsha0718/) etc.
 - :computer: I love to code and solve problems.
 - :sparkles: I love to learn new things.
 - :rocket: I love to solve problems and build web applications.
