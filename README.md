@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Hardik12c&theme=material-palenight)](https://github.com/Elanza-48)
 </div>
 <h2 align='center'><i>Activity Graph 📈</i></h2>
-<a href="https://github.com/Hardik12c/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hardik12c&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+<a href="https://github.com/HARSHA123361/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=HARSHA123361&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 <p align="center">
 <p align="center">
