@@ -14,104 +14,46 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-    <div id="badges">
-        <a href="https://www.linkedin.com/in/sai-harsha-378ba21ba/">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-        </a>
-        <a href="https://twitter.com/megi_reddy21">
-            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-        </a>
-    </div>  
-    <img src="https://komarev.com/ghpvc/?username=Sai Harsha&style=flat-square&color=blue" alt=""/>
-    <h1>
-        Hey there!
-        <br>
-        <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Sai;Harsha;A+Full+Stack+Developer;An+AIML+Engineer;An+Enthusiastic+Learner;+A+Problem+Solver">
-</p>
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
-
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- :telescope: I’m a 3rd year student in India and contributing to frontend and backend for building web applications.
-- :zap: In my free time, I solve problems on [GreekForGreeks](https://auth.geeksforgeeks.org/user/e20cs5xag/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user), [LeetCode](https://leetcode.com/Harsha0718/) etc.
-- :computer: I love to code and solve problems.
-- :sparkles: I love to learn new things.
-- :rocket: I love to solve problems and build web applications.
-- <img src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy-downsized-large.gif" width="20" > At college I'm working on my own projects related to AI, Machine Learning etc.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bala-siva-sai-megi-reddy-padala/)
-
----
-### :hammer_and_wrench: Languages and Tools :
-
-<div id="languages-oops" >
-    <img src="icons_readme/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;&nbsp;
-    <img src="icons_readme/python.svg" title="Python" alt="python" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/c.svg" title="c" alt="c" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/cpp.svg" title="cpp" alt="cpp" width="50" height="50"  />&nbsp;&nbsp;
-    <!-- //create same for c# -->
-    <img src="icons_readme/csharp.svg" title="csharp" alt="csharp" width="50" height="50"  />&nbsp;&nbsp;
-
-   
-</div>
-
-<div id="languages-dbs">
-    <img src="icons_readme/mongodb.svg" title="Mongodb" alt="Mongodb" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/mysql.svg" title="MySql" alt="Mysql" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/digitalocean.svg" title="DigitalOcean" alt="DigitalOcean" width="50" height="50"  />&nbsp;&nbsp;
-</div>
-<div id="platforms">
-    <img src="icons_readme/web.svg" title="Web" alt="Web" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/android.svg" title="Android" alt="Android" width="50" height="50"  />&nbsp;&nbsp;
-</div>
-
-<div id="Web">
-    <img src="icons_readme/html5.svg" title="HTML5" alt="html5" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/css3.svg" title="CSS3" alt="CSS3" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/javascript.svg" title="javascript" alt="javascript" width="50" height="50"  />&nbsp;&nbsp;
-     <img src="icons_readme/php.svg" title="php" alt="php" width="50" height="50"  />&nbsp;&nbsp;
-</div>
-
-<div id="frameworks">
-<img src="icons_readme/Bootstrap.svg" title="bootstrap" alt="bootstrap" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/tailwindcss.svg" title="tailwindcss" alt="tailwindcss" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/react.svg" title="react" alt="react" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/nextjs.svg" title="nextjs" alt="next" width="50" height="50"  />&nbsp;&nbsp;
-    
-</div>
-
-<!-- create a div for version control like above -->
-
-<div id="version-control">
-    <img src="icons_readme/git.svg" title="git" alt="git" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/github.svg" title="github" alt="github" width="50" height="50"  />&nbsp;&nbsp;
-    <!-- <img src="icons_readme/gitlab.svg" title="gitlab" alt="gitlab" width="50" height="50"  />&nbsp;&nbsp; -->
-
----
-
-### :fire: My Stats :
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PadalaBalaSivaSaiMegiReddy&date_format=M%20j%5B%2C%20Y%5D)
-
-![Megi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PadalaBalaSivaSaiMegiReddy&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PadalaBalaSivaSaiMegiReddy&layout=compact)
-
----
-
-<h2>😄 Have Fun </h2>
-<br>
+<h1 align="center">Hi 👋, I'm  Sai Harsha</h1>
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;MERN+Stack+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+<img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="40%"/><br> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik12c&label=Profile%20views&color=0e75b6&style=flat" alt="hardik12c" /> </p>
+
+- 🌱 I’m currently learning **Currently Learning Spring Boot**
+
+- 💬 Ask me about **DSA, MERN Stack Development, JavaScript**
+
+- 📫 How to reach me **hardik12c@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@gamersyv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gamersyv" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hardik-garg-99069b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik garg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17354249/hardik-garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hardikgarg" height="30" width="40" /></a>
+<a href="https://medium.com/@hardik12c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hardikgarg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hardik12c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hardik12c" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hardik12bu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hardik12bu" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/hardik12c/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/hardik12c/practice/" height="30" width="40" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardik12c&show_icons=true&locale=en&layout=compact" alt="hardik12c" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik12c&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="hardik12c" /></p>
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Hardik12c&theme=material-palenight)](https://github.com/Elanza-48)
+</div>
+<h2 align='center'><i>Activity Graph 📈</i></h2>
+<a href="https://github.com/Hardik12c/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hardik12c&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+<p align="center">
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 </p>
