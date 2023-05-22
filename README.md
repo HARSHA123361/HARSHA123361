@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **DSA, MERN Stack Development, JavaScript**
 
-- 📫 How to reach me **hardik12c@gmail.com**
+- 📫 How to reach me **saiharshasomisetty12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Hardik12c&theme=material-palenight)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=HARSHA123361&theme=material-palenight)](https://github.com/Elanza-48)
 </div>
 <h2 align='center'><i>Activity Graph 📈</i></h2>
 <a href="https://github.com/HARSHA123361/github-readme-activity-graph#gh-dark-mode-only">
