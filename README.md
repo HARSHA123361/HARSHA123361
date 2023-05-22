@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="40%"/><br> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik12c&label=Profile%20views&color=0e75b6&style=flat" alt="hardik12c" /> </p>
 
-- 🌱 I’m currently learning **Currently Learning Spring Boot**
+- 🌱 I’m currently learning **DEVops**
 
 - 💬 Ask me about **DSA, MERN Stack Development, JavaScript**
 
@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@gamersyv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gamersyv" height="30" width="40" /></a>
+<a href="https://twitter.com/@gamersyv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Sai Harsha" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sai-harsha-378ba21ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sai Harsha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17354249/hardik-garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hardikgarg" height="30" width="40" /></a>
-<a href="https://medium.com/@hardik12c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hardikgarg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17354249/hardik-garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Sai Harsha" height="30" width="40" /></a>
+<a href="https://medium.com/@saiharshasomisetty12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Sai Harsha" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/e20cs5xag/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Sai Harsha" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/e20cse369" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="@Sai Harsha" height="30" width="40" /></a>
 <a href="https://leetcode.com/Harsha0718/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sai Harsha" height="30" width="40" /></a>
