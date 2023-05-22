@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/17354249/hardik-garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hardikgarg" height="30" width="40" /></a>
 <a href="https://medium.com/@hardik12c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hardikgarg" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/e20cs5xag/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Sai Harsha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hardik12c" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="@Sai Harsha" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/e20cse369" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="@Sai Harsha" height="30" width="40" /></a>
 <a href="https://leetcode.com/Harsha0718/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sai Harsha" height="30" width="40" /></a>
 
 </p>
