@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=HARSHA123361&theme=material-palenight)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=HARSHA123361&theme=material-palenight)](https://github.com/HARSHA123361)
 </div>
 <h2 align='center'><i>Activity Graph 📈</i></h2>
 <a href="https://github.com/HARSHA123361/github-readme-activity-graph#gh-dark-mode-only">
