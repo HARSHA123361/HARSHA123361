@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="40%"/><br> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik12c&label=Profile%20views&color=0e75b6&style=flat" alt="hardik12c" /> </p>
 
-- 🌱 **DEVops**
+- 🌱 I’m currently learning **DEVops**
 
 - 💬 Ask me about **DSA, MERN Stack Development, JavaScript**
 
