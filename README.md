@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋I'm Sai Harsha </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines= Software Development Engineer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?lines= Software Development Engineer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="40%"/><br> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik12c&label=Profile%20views&color=0e75b6&style=flat" alt="hardik12c" /> </p>
