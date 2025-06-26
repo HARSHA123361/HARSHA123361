@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **DEVops**
 
-- 💬 Ask me about **DSA, MERN Stack Development, JavaScript**
+- 💬 Ask me about **Software Development Engineer**
 
 - 📫 How to reach me **saiharshasomisetty12@gmail.com**
 
