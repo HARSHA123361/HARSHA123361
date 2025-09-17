@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **DEVops**
 
-- 💬 Ask me about **Software Development Engineer**
+- 💬 Ask me about **Web Development | DevOps | Cloud Engineering**
 
 - 📫 How to reach me **saiharshasomisetty12@gmail.com**
 
