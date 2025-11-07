@@ -140,7 +140,7 @@ I build production systems from **UI → APIs → CI/CD → Cloud → Monitoring
       <sub>Kafka</sub>
     </td>
     <td align="center" width="80" style="border:none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flink/flink-original.svg" width="45"/><br>
+      <img src="https://miro.medium.com/v2/resize:fit:1200/0*HW6UvJ84r7yW2NC9.jpeg" width="45"/><br>
       <sub>Flink</sub>
     </td>
     <td align="center" width="80" style="border:none;">
