@@ -152,8 +152,11 @@ I build production-quality systems from UI → APIs → CI/CD → Cloud → Moni
 
 ### 🐍 Contribution Snake Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HARSHA123361/HARSHA123361/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" 
+       alt="snake animation" 
+       width="100%" />
 </p>
+
 
 
 
