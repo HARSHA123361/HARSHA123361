@@ -5,7 +5,7 @@
 <h1>Hi, I'm Sai Harsha 👋</h1>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=600&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+%7C+AI/ML Enginner+%7C+Cloud;Distributed+Systems+%7C+Data+Pipelines;Always+Learning+%26+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=600&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+%7C+AI/ML+Enginner+%7C+Cloud;Distributed+Systems+%7C+Data+Pipelines;Always+Learning+%26+Building" />
 
 <!-- Developer Image -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"
