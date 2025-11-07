@@ -201,7 +201,7 @@ I build production systems from **UI → APIs → CI/CD → Cloud → Monitoring
       <sub>InfluxDB</sub>
     </td>
     <td align="center" width="80" style="border:none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/druid/druid-original.svg" width="45"/><br>
+      <img src="https://druid.apache.org/img/druid_nav.png" width="45"/><br>
       <sub>Druid</sub>
     </td>
     <td align="center" width="80" style="border:none;">
@@ -216,7 +216,7 @@ I build production systems from **UI → APIs → CI/CD → Cloud → Monitoring
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="80" style="border:none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="45"/><br>
+      <img src="https://miro.medium.com/v2/1*tFl-8wQUENETYLjX5mYWuA.png" width="45"/><br>
       <sub>AWS</sub>
     </td>
     <td align="center" width="80" style="border:none;">
@@ -296,7 +296,7 @@ I build production systems from **UI → APIs → CI/CD → Cloud → Monitoring
       <sub>Matplotlib</sub>
     </td>
     <td align="center" width="80" style="border:none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="45"/><br>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUpaoBBw3Dbscu8-4LuUlRHiXt0ZULfx_UqA&s" width="45"/><br>
       <sub>HuggingFace</sub>
     </td>
     <td align="center" width="80" style="border:none;">
@@ -319,7 +319,7 @@ I build production systems from **UI → APIs → CI/CD → Cloud → Monitoring
       <sub>Prometheus</sub>
     </td>
     <td align="center" width="80" style="border:none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elastic/elastic-original.svg" width="45"/><br>
+      <img src="https://upload.wikimedia.org/wikipedia/en/9/97/Elastic_NV_logo.svg" width="45"/><br>
       <sub>Elastic</sub>
     </td>
     <td align="center" width="80" style="border:none;">
