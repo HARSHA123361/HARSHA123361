@@ -136,7 +136,7 @@ I build production systems from **UI → APIs → CI/CD → Cloud → Monitoring
       <sub>Redux</sub>
     </td>
     <td align="center" width="80" style="border:none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="45"/><br>
+      <img src="https://blog.scottlogic.com/bquinn/assets/jmeter.png" width="45"/><br>
       <sub>Kafka</sub>
     </td>
     <td align="center" width="80" style="border:none;">
