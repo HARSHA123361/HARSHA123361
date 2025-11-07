@@ -51,50 +51,51 @@ I build production systems from **UI → APIs → CI/CD → Cloud → Monitoring
 
 ### Programming Languages
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="80">
+    <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/><br>
       <sub>Java</sub>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/><br>
       <sub>Python</sub>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/><br>
       <sub>C</sub>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/><br>
       <sub>C++</sub>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/><br>
       <sub>C#</sub>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/><br>
       <sub>JavaScript</sub>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/><br>
       <sub>TypeScript</sub>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45"/><br>
       <sub>Go</sub>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="45"/><br>
       <sub>Rust</sub>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="45"/><br>
       <sub>Scala</sub>
     </td>
   </tr>
 </table>
+
 
 
 
