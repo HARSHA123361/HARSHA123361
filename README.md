@@ -107,64 +107,54 @@ I build production systems from **UI → APIs → CI/CD → Cloud → Monitoring
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/><br>
       <sub>React</sub>
     </td>
-
     <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/><br>
       <sub>Next.js</sub>
     </td>
-
     <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/><br>
       <sub>Node.js</sub>
     </td>
-
     <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/><br>
       <sub>Express.js</sub>
     </td>
-
     <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/><br>
       <sub>Spring Boot</sub>
     </td>
-
     <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="45"/><br>
-      <sub>Rails</sub>
+      <sub>Ruby on Rails</sub>
     </td>
-
     <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="45"/><br>
       <sub>Angular</sub>
     </td>
-
     <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45"/><br>
       <sub>Redux</sub>
     </td>
-
-    <!-- ✅ Updated Flink (your provided image link) -->
     <td align="center" width="80" style="border:none;">
-      <img src="https://miro.medium.com/v2/resize:fit:1200/0*HW6UvJ84r7yW2NC9.jpeg" width="45"/><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="45"/><br>
+      <sub>Kafka</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flink/flink-original.svg" width="45"/><br>
       <sub>Flink</sub>
     </td>
-
-    <!-- ✅ Working JMeter SVG -->
-    <td align="center" width="80" style="border:none;">
-      <img src="https://jmeter.apache.org/images/jmeter_square.svg" width="45"/><br>
-      <sub>JMeter</sub>
-    </td>
-
     <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45"/><br>
       <sub>Selenium</sub>
     </td>
-
+    <td align="center" width="80" style="border:none;">
+      <img src="https://www.vectorlogo.zone/logos/jmeter/apache-jmeter.svg" width="45"/><br>
+      <sub>JMeter</sub>
+    </td>
     <td align="center" width="80" style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/><br>
       <sub>Git</sub>
     </td>
-
     <td align="center" width="80" style="border:none;">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/><br>
       <sub>Postman</sub>
