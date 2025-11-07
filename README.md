@@ -100,29 +100,68 @@ I build production systems from **UI → APIs → CI/CD → Cloud → Monitoring
 
 
 ### Frameworks & Tools
-<table>
+
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/><br><sub>React</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/><br><sub>Next.js</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/><br><sub>Node.js</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/><br><sub>Express</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/><br><sub>Spring Boot</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40"/><br><sub>Rails</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40"/><br><sub>Angular</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40"/><br><sub>.NET</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/><br><sub>Redux</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40"/><br><sub>Kafka</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40"/><br><sub>Selenium</sub></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/jmeter/apache-jmeter.svg" width="40"/><br><sub>JMeter</sub></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br><sub>Postman</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/><br><sub>HTML</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/><br><sub>CSS</sub></td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/><br>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/><br>
+      <sub>Next.js</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/><br>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/><br>
+      <sub>Express.js</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/><br>
+      <sub>Spring Boot</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="45"/><br>
+      <sub>Ruby on Rails</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="45"/><br>
+      <sub>Angular</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45"/><br>
+      <sub>Redux</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="45"/><br>
+      <sub>Kafka</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flink/flink-original.svg" width="45"/><br>
+      <sub>Flink</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45"/><br>
+      <sub>Selenium</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://www.vectorlogo.zone/logos/jmeter/apache-jmeter.svg" width="45"/><br>
+      <sub>JMeter</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/><br>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/><br>
+      <sub>Postman</sub>
+    </td>
   </tr>
 </table>
+
 
 ### Databases
 <table>
