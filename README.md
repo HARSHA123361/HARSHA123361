@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1>Hi, I'm Sai Harsha 👋</h1>
+<h1>Hi, I'm Sai Harsha Somisetty 👋</h1>
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=600&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+%7C+AI/ML+Enginner+%7C+Cloud;Distributed+Systems+%7C+Data+Pipelines;Always+Learning+%26+Building" />
@@ -42,8 +42,7 @@
 ---
 
 ## 🚀 About  
-Software Engineer focused on **full-stack development**, **backend & cloud**, and **data/ML pipelines**.  
-I build production systems from **UI → APIs → CI/CD → Cloud → Monitoring**.
+Software Engineer focused on **full-stack development**, **backend & cloud**, and **data/ML pipelines**.
 
 ---
 
