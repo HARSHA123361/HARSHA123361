@@ -164,76 +164,174 @@ I build production systems from **UI → APIs → CI/CD → Cloud → Monitoring
 
 
 ### Databases
-<table>
+
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/><br><sub>PostgreSQL</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br><sub>MySQL</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/><br><sub>MongoDB</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/><br><sub>Firebase</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" width="40"/><br><sub>Cassandra</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" width="40"/><br><sub>DynamoDB</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hbase/hbase-original.svg" width="40"/><br><sub>HBase</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/influxdb/influxdb-original.svg" width="40"/><br><sub>InfluxDB</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/druid/druid-original.svg" width="40"/><br><sub>Druid</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/><br><sub>SQLite</sub></td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/><br>
+      <sub>PostgreSQL</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/><br>
+      <sub>MySQL</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/><br>
+      <sub>MongoDB</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45"/><br>
+      <sub>Firebase</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" width="45"/><br>
+      <sub>Cassandra</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" width="45"/><br>
+      <sub>DynamoDB</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hbase/hbase-original.svg" width="45"/><br>
+      <sub>HBase</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/influxdb/influxdb-original.svg" width="45"/><br>
+      <sub>InfluxDB</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/druid/druid-original.svg" width="45"/><br>
+      <sub>Druid</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45"/><br>
+      <sub>SQLite</sub>
+    </td>
   </tr>
 </table>
 
 ### Cloud & DevOps
-<table>
+
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40"/><br><sub>AWS</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/><br><sub>Azure</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40"/><br><sub>GCP</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/><br><sub>Docker</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/><br><sub>Kubernetes</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/><br><sub>Terraform</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="40"/><br><sub>Helm</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40"/><br><sub>Ansible</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/><br><sub>Nginx</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/><br><sub>Jenkins</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/><br><sub>Linux</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" width="40"/><br><sub>YAML</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40"/><br><sub>Maven</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/><br><sub>IntelliJ</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slurm/slurm-original.svg" width="40"/><br><sub>SLURM</sub></td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="45"/><br>
+      <sub>AWS</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45"/><br>
+      <sub>Azure</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="45"/><br>
+      <sub>GCP</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/><br>
+      <sub>Docker</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45"/><br>
+      <sub>Kubernetes</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45"/><br>
+      <sub>Terraform</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="45"/><br>
+      <sub>Helm</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="45"/><br>
+      <sub>Ansible</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45"/><br>
+      <sub>Nginx</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45"/><br>
+      <sub>Jenkins</sub>
+    </td>
   </tr>
 </table>
 
+
 ### AI / ML
-<table>
+
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/><br><sub>TensorFlow</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/><br><sub>PyTorch</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40"/><br><sub>Keras</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40"/><br><sub>scikit-learn</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/><br><sub>Pandas</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/><br><sub>NumPy</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/><br><sub>OpenCV</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40"/><br><sub>Matplotlib</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="40"/><br><sub>HuggingFace</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40"/><br><sub>LLMs</sub></td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/><br>
+      <sub>TensorFlow</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/><br>
+      <sub>PyTorch</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="45"/><br>
+      <sub>Keras</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br>
+      <sub>scikit-learn</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/><br>
+      <sub>Pandas</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/><br>
+      <sub>NumPy</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45"/><br>
+      <sub>OpenCV</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45"/><br>
+      <sub>Matplotlib</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="45"/><br>
+      <sub>HuggingFace</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="45"/><br>
+      <sub>LLMs</sub>
+    </td>
   </tr>
 </table>
 
 ### Monitoring & Logging
-<table>
+
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40"/><br><sub>Grafana</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40"/><br><sub>Prometheus</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elastic/elastic-original.svg" width="40"/><br><sub>Elastic</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" width="40"/><br><sub>Logstash</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" width="40"/><br><sub>Kibana</sub></td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="45"/><br>
+      <sub>Grafana</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="45"/><br>
+      <sub>Prometheus</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elastic/elastic-original.svg" width="45"/><br>
+      <sub>Elastic</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" width="45"/><br>
+      <sub>Logstash</sub>
+    </td>
+    <td align="center" width="80" style="border:none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" width="45"/><br>
+      <sub>Kibana</sub>
+    </td>
   </tr>
 </table>
+
 
 ---
 
