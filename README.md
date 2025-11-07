@@ -142,13 +142,7 @@ I build production-quality systems from UI → APIs → CI/CD → Cloud → Moni
 
 ---
 
-# 📊 GitHub Activity & Stats  
-✅ These versions work reliably (no rate-limit errors)
-
-### 🔥 Streak Stats
-<p>
-  <img src="https://streak-stats.demolab.com?user=HARSHA123361&theme=tokyonight&hide_border=true" height="160" />
-</p>
+# 📊 GitHub Analytics
 
 ### 🚀 GitHub Stats
 <p>
@@ -156,10 +150,12 @@ I build production-quality systems from UI → APIs → CI/CD → Cloud → Moni
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHA123361&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
-### 📈 Activity Graph (Working Version)
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHA123361&theme=react-dark&hide_border=true&area=true" />
+### 🐍 Contribution Snake Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HARSHA123361/HARSHA123361/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+
 
 ---
 
