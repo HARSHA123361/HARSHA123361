@@ -37,7 +37,7 @@
 
 ## 📞 Contact Info  
 - ✉️ **Email:** saiharshasomisetty12@gmail.com  
-- 📱 **Phone:** 352-246-5909  
+- 📱 **Phone:** +1 352-246-5909  
 - 📍 **Location:** United States Of America  
 
 
