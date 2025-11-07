@@ -5,7 +5,7 @@
 <h1>Hi, I'm Sai Harsha 👋</h1>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=600&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+%7C+Backend+%7C+Cloud;Distributed+Systems+%7C+Data+Pipelines;Always+learning%2C+building%2C+improving" />
+<img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=600&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+%7C+Backend+%7C+Cloud;Distributed+Systems+%7C+Data+Pipelines;Always+Learning+%26+Building" />
 
 <!-- Developer Image -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"
@@ -23,28 +23,40 @@
   <a href="https://www.linkedin.com/in/sai-harsha-somisetty-378ba21ba/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://portfoliosai-harsha.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Harsha0718/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 </div>
 
 ---
 
+## 📞 Contact Info  
+- **Email:** saiharshasomisetty12@gmail.com  
+- **Phone:** 352-246-5909  
+- **Portfolio:** https://portfoliosai-harsha.vercel.app/  
+- **LinkedIn:** https://www.linkedin.com/in/sai-harsha-somisetty-378ba21ba/  
+- **LeetCode:** https://leetcode.com/u/Harsha0718/  
+
+---
+
 ## 🚀 About  
-Software Engineer focused on **full-stack systems**, **backend & cloud**, and **data/ML pipelines**.  
-I build end-to-end production systems: **Next.js → APIs → CI/CD → Cloud → Observability**.
+Software Engineer focused on **full-stack development**, **backend & cloud**, and **data/ML pipelines**.  
+I build production-quality systems from UI → APIs → CI/CD → Cloud → Monitoring.
 
-- Built scalable microservices and REST APIs  
-- Designed CI/CD workflows and automated deployments  
-- Experience with distributed systems and cloud-native architectures  
-- Hands-on with ML/Data pipelines and model integration  
-
----
-
-# 🧰 Tech I Use
+- 30+ REST APIs built & optimized  
+- Cloud-native deployments (AWS, Azure, GCP, Docker, Kubernetes)  
+- Data and ML pipelines with deep-learning integrations  
+- Distributed systems + observability (Grafana, Prometheus, ELK)
 
 ---
 
-### **Programming Languages**
+# 🧰 Tech I Use  
+### Programming Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
@@ -60,9 +72,7 @@ I build end-to-end production systems: **Next.js → APIs → CI/CD → Cloud �
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" />
 </p>
 
----
-
-### **Frameworks & Tools**
+### Frameworks & Tools
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
@@ -83,9 +93,7 @@ I build end-to-end production systems: **Next.js → APIs → CI/CD → Cloud �
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
 </p>
 
----
-
-### **Databases**
+### Databases
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
@@ -97,9 +105,7 @@ I build end-to-end production systems: **Next.js → APIs → CI/CD → Cloud �
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" />
 </p>
 
----
-
-### **Cloud & DevOps**
+### Cloud & DevOps
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" />
@@ -113,9 +119,7 @@ I build end-to-end production systems: **Next.js → APIs → CI/CD → Cloud �
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" />
 </p>
 
----
-
-### **AI / ML**
+### AI / ML
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" />
@@ -127,9 +131,7 @@ I build end-to-end production systems: **Next.js → APIs → CI/CD → Cloud �
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" />
 </p>
 
----
-
-### **Monitoring / Logging**
+### Monitoring / Logging
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" />
@@ -140,6 +142,27 @@ I build end-to-end production systems: **Next.js → APIs → CI/CD → Cloud �
 
 ---
 
-## 📫 Connect  
-- **Email:** saiharshasomisetty12@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/sai-harsha-somisetty-378ba21ba/  
+# 📊 GitHub Activity & Stats  
+✅ These versions work reliably (no rate-limit errors)
+
+### 🔥 Streak Stats
+<p>
+  <img src="https://streak-stats.demolab.com?user=HARSHA123361&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+### 🚀 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHA123361&theme=tokyonight&show_icons=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHA123361&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+### 📈 Activity Graph (Working Version)
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHA123361&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## ✅ Thanks for Visiting!
+Feel free to reach out — always happy to connect and collaborate 🚀
+
