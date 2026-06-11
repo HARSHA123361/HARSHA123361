@@ -23,9 +23,6 @@
   <a href="https://www.linkedin.com/in/sai-harsha-somisetty-378ba21ba/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfoliosai-harsha.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
   <a href="https://leetcode.com/u/Harsha0718/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
